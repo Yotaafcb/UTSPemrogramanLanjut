@@ -1,0 +1,58 @@
+﻿<Window x:Class="PemrogLanjut.layout_4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PemrogLanjut"
+        mc:Ignorable="d"
+        Title="layout_4" Height="1024" Width="1440">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="472" Margin="239,0,0,0" Stroke="Black" VerticalAlignment="Center" Width="474">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/WhatsApp Image 2022-07-12 at 00.25.06.jpeg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock HorizontalAlignment="Left" Height="158" Margin="60,45,0,0" TextWrapping="Wrap" Text="HONDA ADV 150 ABS 2019 PUTIH 2019 KM LOW 6K SUPER MULUS LIKE NEW PAJAK PANJANG" VerticalAlignment="Top" Width="660" FontSize="36"/>
+        <Rectangle HorizontalAlignment="Left" Height="120" Margin="60,787,0,0" Stroke="Black" VerticalAlignment="Top" Width="120">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/1668595875-6374c0a311de0-main.jpeg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="120" Margin="239,787,0,0" Stroke="Black" VerticalAlignment="Top" Width="120">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/1668595875-6374c0a312b67-main.jpeg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="120" Margin="425,787,0,0" Stroke="Black" VerticalAlignment="Top" Width="120">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/1668595875-6374c0a3112e9-main.jpeg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="120" Margin="593,787,0,0" Stroke="Black" VerticalAlignment="Top" Width="120">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/1668595875-6374c0a312e83-main.jpeg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="120" Margin="768,787,0,0" Stroke="Black" VerticalAlignment="Top" Width="120">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/1668595875-6374c0a3120df-main.jpeg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="431" Margin="910,124,0,0" Stroke="Black" VerticalAlignment="Top" Width="486" Fill="#FFD9D9D9"/>
+        <Rectangle HorizontalAlignment="Left" Height="48" Margin="911,595,0,0" Stroke="Black" VerticalAlignment="Top" Width="485" Fill="#8C1AFE4C"/>
+        <Rectangle HorizontalAlignment="Left" Height="48" Margin="910,667,0,0" Stroke="Black" VerticalAlignment="Top" Width="485" Fill="#8C02E7F5"/>
+        <TextBlock HorizontalAlignment="Left" Height="211" Margin="911,787,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="503" FontFamily="Bahnschrift"><Run Text="About This Vehicle"/><LineBreak/><Run/><LineBreak/><Run Text="Hello Bos, Mau Nawarin Motor Super Gress nih !Honda Adv 150 Abs Putih 2019 Bulan 9"/><LineBreak/><Run Text="Surat Lengkap (BPKB, STNK, Faktur)Plat B - Odo Low 6.000 PerakPajak Panjang sampai September 2023"/><LineBreak/><Run Text="Kunci 2 Lengkap"/><LineBreak/><Run Text="Mulus No Kendala, Plat Nomor Cantik !√ Lokasi Yogyakarta (Google Maps : Jl. Adhyaksa I, Banteng, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581)"/><LineBreak/><Run Text="√ Bisa Tukar Tambah√ Balik Nama / Perpanjang Pajak (Bisa di Bantu)√ Full Garansi 100% Bebas Tabrak / Banjir / Odo resetanLanjut Chat / WA / Call ya broThank you"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="1118,609,0,0" TextWrapping="Wrap" Text="Book Now" VerticalAlignment="Top" Width="71" FontSize="15"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="1114,679,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" FontSize="15"><Run Text="Cek Barang"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="55" Margin="934,148,0,0" TextWrapping="Wrap" Text="Harga :" VerticalAlignment="Top" Width="260" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Height="47" Margin="1156,152,0,0" TextWrapping="Wrap" Text="Rp 34,800,000" VerticalAlignment="Top" Width="239" RenderTransformOrigin="0.525,1.183" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Height="86" Margin="934,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="255" FontSize="20"><Run Text="Miliki hanya dengan DP :"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="1290,205,0,0" TextWrapping="Wrap" Text="Rp 7jutaan" VerticalAlignment="Top" Width="106" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Height="72" Margin="934,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" FontSize="15"><Run Text="- BRAND: Honda"/><LineBreak/><Run Text="- KM: 6000"/><LineBreak/><Run Text="- CLASS: Under 250cc"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="46" Margin="934,340,0,0" TextWrapping="Wrap" Text="Item ini tersedia untuk dibeli dan dapat dilihat di showroom kami." VerticalAlignment="Top" Width="308" FontSize="15"/>
+        <TextBlock HorizontalAlignment="Left" Height="53" Margin="934,386,0,0" TextWrapping="Wrap" Text="Showroom Location: Lapak Motorku - Yogyakarta" VerticalAlignment="Top" Width="342" FontSize="15"/>
+        <TextBlock HorizontalAlignment="Left" Height="122" Margin="934,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="425" FontSize="15"><Run Text="Address: Jl. Adhyaksa I, Banteng, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581"/><LineBreak/><Run/><LineBreak/><Run Text=" Gmaps"/><LineBreak/><Run/><LineBreak/><Run Text="Phone : 081229955530"/></TextBlock>
+        <Rectangle HorizontalAlignment="Center" Height="8" Margin="0,32,0,0" Stroke="Black" VerticalAlignment="Top" Width="1440" Fill="#FFA2A2A2"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1667986191-636b730fef6b6-main.jpeg" />
+    <None Remove="1667986191-636b730fefae5-main.jpeg" />
+    <None Remove="1667986191-636b730fefef4-main.jpeg" />
+    <None Remove="1667986191-636b730ff0732-main.jpeg" />
+    <None Remove="1667986191-636b730ff0aea-main.jpeg" />
+    <None Remove="1668595774-6374c03ebfb75-main.jpeg" />
+    <None Remove="1668595774-6374c03ec0d43-main.jpeg" />
+    <None Remove="1669141359424.jpg" />
+    <None Remove="1669141359470.jpg" />
+    <None Remove="1669141527398.jpg" />
+    <None Remove="1669141645558.jpg" />
+    <None Remove="1669141833410.jpg" />
+    <None Remove="1669141833415.jpg" />
+    <None Remove="1669141833420.jpg" />
+    <None Remove="1669141833425.jpg" />
+    <None Remove="lapak_motorku-layout2.jpg" />
+    <None Remove="lapak_motorku-starting.jpg" />
+    <None Remove="pngegg.png" />
+    <None Remove="WhatsApp Image 2022-07-12 at 00.25.06.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1667986191-636b730fef6b6-main.jpeg" />
+    <Resource Include="1667986191-636b730fefae5-main.jpeg" />
+    <Resource Include="1667986191-636b730fefef4-main.jpeg" />
+    <Resource Include="1667986191-636b730ff0732-main.jpeg" />
+    <Resource Include="1667986191-636b730ff0aea-main.jpeg" />
+    <Resource Include="1668595774-6374c03ebfb75-main.jpeg" />
+    <Resource Include="1668595774-6374c03ec0d43-main.jpeg" />
+    <Resource Include="1669141359424.jpg" />
+    <Resource Include="1669141359470.jpg" />
+    <Resource Include="1669141527398.jpg" />
+    <Resource Include="1669141645558.jpg" />
+    <Resource Include="1669141833410.jpg" />
+    <Resource Include="1669141833415.jpg" />
+    <Resource Include="1669141833420.jpg" />
+    <Resource Include="1669141833425.jpg" />
+    <Resource Include="lapak_motorku-layout2.jpg" />
+    <Resource Include="lapak_motorku-starting.jpg" />
+    <Resource Include="pngegg.png" />
+    <Resource Include="WhatsApp Image 2022-07-12 at 00.25.06.jpeg" />
+  </ItemGroup>
+
+</Project>
